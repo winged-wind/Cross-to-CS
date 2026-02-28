@@ -3,7 +3,7 @@
 你好，我是ly，北京大学生命科学学院23级本科生，目前正在自学cs。
 
 ## 当前在学：计网
-课程视频：https://www.bilibili.com/video/BV1JV411t7ow?t=75.6
+课程视频：https://www.bilibili.com/video/BV1JV411t7ow?t=75.6   
 用书：《计算机网络：自顶向下方法》
 
 ## 联系方式
