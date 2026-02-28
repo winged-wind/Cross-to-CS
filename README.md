@@ -1,2 +1,10 @@
 # Cross-to-CS
-Yet, once we start walking forward, the traces of our journey will always be there beneath our feet whenever we look back.
+--------------
+你好，我是ly，北京大学生命科学学院23级本科生，目前正在自学cs。
+
+## 联系方式
+- 邮箱：thezerone_01@stu.pku.edu.cn
+- GitHub：这个仓库就是
+
+## 更新日志
+- 2026.02.28：建仓库，规划自学路线
